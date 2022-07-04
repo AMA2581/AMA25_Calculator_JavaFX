@@ -1,0 +1,11 @@
+.button-side { 
+    -fx-background-color: #cccccc;
+}
+
+.button-middle {
+    -fx-background-color: #e6e6e6;
+}
+
+.button-clear {
+    -fx-background-color: #ff4d4d;
+    }
